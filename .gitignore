@@ -1,0 +1,6 @@
+**/__pycache__/
+**/node_modules/
+*.log
+.eslintcache
+.DS_Store
+pgdata/
